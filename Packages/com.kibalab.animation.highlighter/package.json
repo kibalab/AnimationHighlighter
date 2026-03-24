@@ -1,0 +1,13 @@
+{
+  "name": "com.kibalab.animation.highlighter",
+  "displayName": "Animation Highlighter",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Improves visibility for the currently selected rows in the Animation window.",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "KIBA",
+    "email": "root@kiba.red",
+    "url": "https://vpm.kiba.red/"
+  }
+}
